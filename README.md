@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/09/ac/47/09ac47c0c8d14e4cf27198e9e3b355bf.gif)](https://github.com/manishXcode)
 
 # 💫 About Me:
-# 💫 Hi 👋, This is Manish Yadhuvanshi<br>**A passionate Android Developer from India**<br><br>- 🌱 **I’m currently learning:** React Native || MongoDB<br>- 💬 **Ask me about:** React Native || Expo<br>- 📫 **How to reach me:** manish.code.app@gmail.co<br>- ⚡ **Fun fact:** I am a thin guy🤣
+### 💫 Hi 👋, This is Manish Yadhuvanshi<br>**A passionate Android Developer from India**<br><br>- 🌱 **I’m currently learning:** React Native || MongoDB<br>- 💬 **Ask me about:** React Native || Expo<br>- 📫 **How to reach me:** manish.code.app@gmail.co<br>- ⚡ **Fun fact:** I am a thin guy🤣
 
 
 ## 🌐 Socials:
